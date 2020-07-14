@@ -1,0 +1,14 @@
+﻿  AttackStrategy.cpp
+  FearStrategy.cpp
+C:\Users\ephra1m\Downloads\Goal.12.Strategy.Pattern\Goal.12.Strategy.Pattern\FearStrategy.cpp(16,22): warning C4018: '<': signed/unsigned mismatch
+  FireballStrategy.cpp
+  FrenzyStrategy.cpp
+  Goal.12.cpp
+  HealStrategy.cpp
+  iStrategy.cpp
+  Item.cpp
+  Monster.cpp
+  Object.cpp
+  Player.cpp
+  Generating Code...
+  Goal.12.Strategy.Pattern.vcxproj -> C:\Users\ephra1m\Downloads\Goal.12.Strategy.Pattern\Goal.12.Strategy.Pattern\Debug\Goal.12.Strategy.Pattern.exe
